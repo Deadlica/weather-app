@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="refresh_button_text">Get Weather!</string>
+</resources>
